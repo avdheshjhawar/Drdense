@@ -1,0 +1,32 @@
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\obj\Debug\DrDenese.csprojResolveAssemblyReference.cache
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\DrDenese.dll.config
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\DrDenese.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\DrDenese.pdb
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\AE.Net.Mail.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\Newtonsoft.Json.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\nunit.framework.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\System.ValueTuple.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\TechTalk.SpecFlow.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\WebDriver.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\AE.Net.Mail.pdb
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\Newtonsoft.Json.xml
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\nunit.framework.xml
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\WebDriver.xml
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\obj\Debug\DrDenese.dll
+\\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\obj\Debug\DrDenese.pdb
+C:\work\DrDenese\DrDenese\bin\Debug\DrDenese.dll.config
+C:\work\DrDenese\DrDenese\bin\Debug\DrDenese.dll
+C:\work\DrDenese\DrDenese\bin\Debug\DrDenese.pdb
+C:\work\DrDenese\DrDenese\bin\Debug\AE.Net.Mail.dll
+C:\work\DrDenese\DrDenese\bin\Debug\Newtonsoft.Json.dll
+C:\work\DrDenese\DrDenese\bin\Debug\nunit.framework.dll
+C:\work\DrDenese\DrDenese\bin\Debug\System.ValueTuple.dll
+C:\work\DrDenese\DrDenese\bin\Debug\TechTalk.SpecFlow.dll
+C:\work\DrDenese\DrDenese\bin\Debug\WebDriver.dll
+C:\work\DrDenese\DrDenese\bin\Debug\AE.Net.Mail.pdb
+C:\work\DrDenese\DrDenese\bin\Debug\Newtonsoft.Json.xml
+C:\work\DrDenese\DrDenese\bin\Debug\nunit.framework.xml
+C:\work\DrDenese\DrDenese\bin\Debug\WebDriver.xml
+C:\work\DrDenese\DrDenese\obj\Debug\DrDenese.csprojResolveAssemblyReference.cache
+C:\work\DrDenese\DrDenese\obj\Debug\DrDenese.dll
+C:\work\DrDenese\DrDenese\obj\Debug\DrDenese.pdb

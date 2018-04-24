@@ -1,0 +1,30 @@
+﻿------ Run test started ------
+NUnit VS Adapter 2.1.1.0 executing tests is started
+Loading tests from \\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\DrDenese.dll
+Run started: \\192.168.0.60\Testing\Testing Projects\Automation\DrDenese\DrDenese\bin\Debug\DrDenese.dll
+-> Using app.config
+Browser: Chrome
+Given I open Home Page
+-> done: DR_1HomePageVerificationSteps.GivenIOpenHomePage() (0.3s)
+Then Home Page should display
+-> done: DR_1HomePageVerificationSteps.ThenHomePageShouldDisplay() (0.1s)
+Browser: Chrome
+Given user is present on home page
+-> done: DR_1HomePageVerificationSteps.GivenUserIsPresentOnHomePage() (0.1s)
+When user mouse hover on shop products link
+-> done: DR_1HomePageVerificationSteps.WhenUserMouseHoverOnShopProductsLink() (0.2s)
+Then all sublinks of shop products should display
+-> done: DR_1HomePageVerificationSteps.ThenAllSublinksOfShopProductsShouldDisplay() (7.0s)
+Browser: Chrome
+Given user is present on home page
+-> done: DR_1HomePageVerificationSteps.GivenUserIsPresentOnHomePage() (0.0s)
+When user mouse hover on shop products link
+-> done: DR_1HomePageVerificationSteps.WhenUserMouseHoverOnShopProductsLink() (0.1s)
+Then all sublinks of shop products should display
+-> done: DR_1HomePageVerificationSteps.ThenAllSublinksOfShopProductsShouldDisplay() (6.9s)
+When user click on Regiments and Kit sub-link of shop products link
+-> done: DR_1HomePageVerificationSteps.WhenUserClickOnRegimentsAndKitSub_LinkOfShopProductsLink() (7.6s)
+Then user should redirected to desired page
+-> done: DR_1HomePageVerificationSteps.ThenUserShouldRedirectedToDesiredPage() (0.1s)
+NUnit VS Adapter 2.1.1.0 executing tests is finished
+========== Run test finished: 3 run (0:01:12.6790848) ==========
